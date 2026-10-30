@@ -7,7 +7,7 @@ I'm a third-year student at the Faculty of Artificial Intelligence, majoring in 
 Welcome to my learning progress report! Here I document the courses I take on my self-education journey in data analysis, data science, and artificial intelligence.
 
 ## 🔗 Portfolio
-[View my portfolio](https://omniagoma580.github.io/omniagoma580.github.io/)
+[View my portfolio](https://omniagomaa580.github.io/omniagoma580.github.io/)
 
 ## 🛠️ Skills
 - Python

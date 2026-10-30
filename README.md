@@ -20,4 +20,4 @@ Welcome to my learning progress report! Here I document the courses I take on my
 
 | No. | Course Name | Provider | Date of Completion | Certificate | Project |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Git & GitHub]((https://youtu.be/Q6G-J54vgKc?si=mymd2bN4DTvmwDI3)) | YouTube, Big Data Channel | In Progress ⏳ | - | - |
+| 1 | [Git & GitHub](https://youtu.be/Q6G-J54vgKc?si=mymd2bN4DTvmwDI3) | YouTube, Big Data Channel | In Progress ⏳ | - | - |
